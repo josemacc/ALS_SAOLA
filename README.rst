@@ -20,7 +20,7 @@ How to build PlatformIO based project
 .. code-block:: bash
 
     # Change directory to example
-    > cd platform-espressif32/examples/espidf-arduino-wifiscan
+    > cd platform-espressif32/examples/espidf-hello-world
 
     # Build project
     > platformio run
