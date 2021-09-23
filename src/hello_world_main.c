@@ -17,7 +17,7 @@
 #include "esp_event.h"
 #include "esp_pm.h"
 #include "nvs_flash.h"
-#include "led_strip.h"
+
 
 /*set the ssid and password via "idf.py menuconfig"*/
 #define DEFAULT_SSID CONFIG_EXAMPLE_WIFI_SSID
